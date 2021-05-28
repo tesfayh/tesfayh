@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tesfayh
+- 👋 Hi, I’m Tesfay Hishe
 - 👀 I’m interested in Web app software developments in ASP.NET core and Angular and Mobile App development. 
 - 🌱 I’m currently working as a full stack web app developer and learning android mobile app development 
 - 💞️ 
